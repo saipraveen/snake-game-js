@@ -34,3 +34,4 @@ const setPosition = (element, position) => {
 
 // Testing draw function
 draw();
+
